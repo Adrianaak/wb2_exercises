@@ -7,4 +7,4 @@ let netWorth = totalAssets - totalDebts;
 
 
 //output the results to console
-console.log("The total due is" + netWorth);
+console.log("The netWorth amount is" + netWorth);
