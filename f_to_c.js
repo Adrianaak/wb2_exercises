@@ -1,6 +1,6 @@
 function fahrenheitToCelsius(fahrenheit) {
     let fahrenheitTemp = 43
-    let celsius = (fahrenheit - 32) * 5/9;
+    let celsius = (fahrenheit - 32) * 5/9
     return celsius;
 }
 

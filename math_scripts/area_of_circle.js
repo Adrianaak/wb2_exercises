@@ -1,5 +1,5 @@
 //define the radius of the circle
-let radius = 13
+let radius = 13;
 
 //calculate the area
 let area = Math.PI * radius**2;
